@@ -1,6 +1,6 @@
 # About
 
-Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but failed to polish and release them. This leaves only the Argon with a race specifc weapon the Argon Ion Blaster. This mod:
+Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but failed to polish and release them. This leaves only the Argon with a race specific weapon the Argon Ion Blaster. This mod:
 
 * Adds the Paranid Mass Driver and Teladi Muon Charger to the game.
 
@@ -8,7 +8,7 @@ Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but
 
 * Fixes an issue with the Mass Driver Medium MK1 always overheating and never being able to fire off a round.
 
-* Fixes an issue with both Mass Driver MK1s having no consquence for overheating.
+* Fixes an issue with both Mass Driver MK1s having no consequence for overheating.
 
 * Fixes an issue with a declare not being placed properly for the Mass Driver Medium MK2
 
@@ -28,7 +28,7 @@ Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419555)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1895774340)
 
