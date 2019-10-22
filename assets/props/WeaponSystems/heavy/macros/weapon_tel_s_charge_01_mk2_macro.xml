@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<replace sel="//macros/macro[@name='weapon_tel_s_charge_01_mk2_macro']/properties/bullet/@class">bullet_tel_s_charge_01_mk2_macro</replace>
+</diff>

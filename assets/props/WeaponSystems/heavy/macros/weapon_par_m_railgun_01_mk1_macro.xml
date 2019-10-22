@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="//macros/macro[@name='weapon_par_m_railgun_01_mk1_macro']/properties/heat" type="@reenable">0</add>
+</diff>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+<add sel="//components/component/connections/connection[@name='Connection06']" type="@parent">part_gun</add>
+<replace sel="//components/component/connections/connection[@name='Connection06']/offset/position/@z">-2.0486</replace>
+</diff>
