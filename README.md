@@ -14,6 +14,8 @@ Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but
 
 * Balances the Muon Charger in such a way that their low attention combat damage isn't anymore broken than the Ion Blaster.
 
+* Changed the Muon Charger charge time from 1 second to 5.
+
 * Fixes an issue where the Small MK2 Muon Charger was using the MK1's bullets.
 
 # What Is Modified?
