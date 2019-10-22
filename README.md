@@ -1,6 +1,6 @@
 # About
 
-Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger, specific weapons, but failed to polish them and release. This leaves only the Argon with a race specifc weapon the Argon Ion Blaster. This mod:
+Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but failed to polish and release them. This leaves only the Argon with a race specifc weapon the Argon Ion Blaster. This mod:
 
 * Adds the Paranid Mass Driver and Teladi Muon Charger to the game.
 
@@ -30,9 +30,9 @@ Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger, sp
 
 [Egosoft Forum]()
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1895774340)
 
-[Github]()
+[Github](https://github.com/rovermicrover/x4-race-weapons-enabled)
 
 # History
 
