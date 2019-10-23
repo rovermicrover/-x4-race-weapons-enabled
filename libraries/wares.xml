@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
 <replace sel="//wares/ware[@id='weapon_par_s_railgun_01_mk1']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_par_s_railgun_01_mk1']">
+    <use threshold="0" />
+    <owner faction="alliance" />
+    <owner faction="holyorder" />
+</add>
 <replace sel="//wares/ware[@id='weapon_par_s_railgun_01_mk2']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_par_s_railgun_01_mk2']">
+    <use threshold="0" />
+    <owner faction="alliance" />
+    <owner faction="holyorder" />
+</add>
 <replace sel="//wares/ware[@id='weapon_par_m_railgun_01_mk1']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_par_m_railgun_01_mk1']">
+    <use threshold="0" />
+    <owner faction="alliance" />
+    <owner faction="holyorder" />
+</add>
 <replace sel="//wares/ware[@id='weapon_par_m_railgun_01_mk2']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_par_m_railgun_01_mk2']">
+    <use threshold="0" />
+    <owner faction="alliance" />
+    <owner faction="holyorder" />
+</add>
 
 <replace sel="//wares/ware[@id='weapon_tel_s_charge_01_mk1']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_tel_s_charge_01_mk1']">
+    <use threshold="2" />
+    <owner faction="alliance" />
+    <owner faction="ministry" />
+</add>
 <replace sel="//wares/ware[@id='weapon_tel_s_charge_01_mk2']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_tel_s_charge_01_mk2']">
+    <use threshold="2" />
+    <owner faction="alliance" />
+    <owner faction="ministry" />
+</add>
 <replace sel="//wares/ware[@id='weapon_tel_m_charge_01_mk1']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_tel_m_charge_01_mk1']">
+    <use threshold="2" />
+    <owner faction="alliance" />
+    <owner faction="ministry" />
+</add>
 <replace sel="//wares/ware[@id='weapon_tel_m_charge_01_mk2']/@tags">equipment weapon</replace>
+<add sel="//wares/ware[@id='weapon_tel_m_charge_01_mk2']">
+    <use threshold="2" />
+    <owner faction="alliance" />
+    <owner faction="ministry" />
+</add>
 </diff>
