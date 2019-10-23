@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
+	<replace sel="//macros/macro[@name='bullet_tel_s_charge_01_mk1_macro']/properties/bullet/@lifetime">9</replace>
 	<replace sel="//macros/macro[@name='bullet_tel_s_charge_01_mk1_macro']/properties/bullet/@chargetime">3</replace>
 	<replace sel="//macros/macro[@name='bullet_tel_s_charge_01_mk1_macro']/properties/heat/@value">325</replace>
 	<replace sel="//macros/macro[@name='bullet_tel_s_charge_01_mk1_macro']/properties/reload/@rate">0.75</replace>
