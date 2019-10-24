@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
+	<replace sel="//macros/macro[@name='bullet_par_m_railgun_01_mk1_macro']/properties/damage/@value">400</replace>
 	<replace sel="//macros/macro[@name='bullet_par_m_railgun_01_mk1_macro']/properties/bullet/@lifetime">0.1</replace>
 	<replace sel="//macros/macro[@name='bullet_par_m_railgun_01_mk1_macro']/properties/bullet/@maxhits">1</replace>
 	<replace sel="//macros/macro[@name='bullet_par_m_railgun_01_mk1_macro']/properties/heat/@initial">9500</replace>
