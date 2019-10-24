@@ -6,13 +6,17 @@ Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but
 
 * Adds their blueprints for sale.
 
-* NPCs should use the Mass Driver, but non Muon Charger. If this is not the case please report an issue.
+* NPCs shouldn't use either the Mass Driver, or Muon Charger. If this is not the case please report an issue.
 
 * Fixes an issue with the Mass Driver Medium MK1 always overheating and never being able to fire off a round.
 
 * Fixes an issue with both Mass Driver MK1s having no consequence for overheating.
 
 * Fixes an issue with a declare not being placed properly for the Mass Driver Medium MK2
+
+* Removes the randomness of the Mass Drivers damage and nerfs it to a level where you couldn't use an ecslipes with four of them to completely destroy a fighter or m turret.
+
+* Nerfs the Mass Driver Range Down to 10KM so it still has the longest range, but not so long that opponensts will never be able to close the gap.
 
 * Balances the Muon Charger in such a way that their low attention combat damage isn't anymore broken than the Ion Blaster.
 
