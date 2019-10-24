@@ -1,12 +1,12 @@
 # About
 
-Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but failed to polish and release them. This leaves only the Argon with a race specific weapon the Argon Ion Blaster. This mod:
+Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but failed to polish and release them FOR PLAYER CONTROLLED USE. This leaves only the Argon with a race specific weapon the Argon Ion Blaster. This mod:
 
 * Adds the Paranid Mass Driver and Teladi Muon Charger to the game.
 
 * Adds their blueprints for sale.
 
-* NPCs shouldn't use either the Mass Driver, or Muon Charger. If this is not the case please report an issue.
+* NPCs factions shouldn't use either the Mass Driver, or Muon Charger. If this is not the case please report an issue. Also note please do not use them on none player controlled ships. They will not work right in sector. This is because attack run beheavior for weapons with charge time is broken, and cannot be fixed via modding.
 
 * Fixes an issue with the Mass Driver Medium MK1 always overheating and never being able to fire off a round.
 
@@ -51,3 +51,7 @@ Egosoft almost fully implemented Paranid Mass Driver and Teladi Muon Charger but
 # History
 
 1.00 Release Version
+
+1.01 Ensure HOP and MIN have access. Do not allow NPCs to equip Muon Charger until Egosoft fixies attack run beavhior with a charge weapon. Make sure the Mass Driver is treated as a military weapon and does not show up on every civilian ship.
+
+1.02 Do not allow NPCs to equip the Mass Driver either. Nerf Mass Driver damage and range so it is not an all powerful player only weapon.
